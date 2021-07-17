@@ -1,0 +1,24 @@
+.DraftEditor-root {
+  border: 1px solid #f1f1f1;
+  width: 700px;
+  padding: 2px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+.rdw-editor-main::-webkit-scrollbar {
+  width: 6px;
+}
+
+.rdw-editor-main::-webkit-scrollbar-thumb {
+  background: $teal;
+  border-radius: 6px;
+}
+
+.rdw-emoji-modal {
+  left: -180px;
+}
+
+.rdw-embedded-modal {
+  left: -135px;
+}
